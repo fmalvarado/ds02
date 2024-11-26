@@ -1,3 +1,3 @@
 # ds02
 
-## Visualizacíon de datos
+## Visualización de datos
